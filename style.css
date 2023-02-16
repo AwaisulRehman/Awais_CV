@@ -1,0 +1,32 @@
+
+        body{
+            background-color: #B9F3FC;
+        }
+        h2 {
+            color:firebrick;
+        }
+        h3 {
+            color: firebrick;
+        }
+        u {
+            color: blue;
+        }
+        hr {
+            border-style: dotted none none;
+            border-color: grey;
+            border-width: 5px;
+            width: 80%;
+        }
+        th {
+            color:sienna;
+        }
+        b {
+            color: sienna;
+        }
+        a {
+            color: blue;
+        }
+        img {
+            height: 150px;
+        }
+    
